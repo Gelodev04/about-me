@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">A frontend developer from The Philippines</h3>
 
-- 🔭 I’m currently working on **BSU Marketplace**
 
 - 🌱 I’m currently learning **Backend development**
 
