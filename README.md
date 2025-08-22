@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
-<h3 align="center">A frontend developer from The Philippines</h3>
+<h3 align="center">A Web Developer from The Philippines</h3>
 
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently freelancing at Upwork.com 
 
 - 👨‍💻 All of my projects are available at [https://gelo-portfolio-murex.vercel.app/](https://gelo-portfolio-murex.vercel.app/)
 
